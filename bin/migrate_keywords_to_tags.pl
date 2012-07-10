@@ -79,7 +79,7 @@ migrate_keywords_to_tags.pl - Migrate your keywords to tags
 
 =head1 VERSION
 
-version 0.001
+version 0.002
 
 =head1 AUTHOR
 
